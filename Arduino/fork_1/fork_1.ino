@@ -23,5 +23,5 @@ void loop()
   uint8_t statusB = digitalRead(chB);
 
   Serial.print(statusA);Serial.print(" - ");Serial.println(statusB);
-  delay(100);
+  delay(1);
 }
