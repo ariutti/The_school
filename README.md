@@ -8,12 +8,13 @@ Il repository contiene software e datasheet per l'hardware sviluppati durante le
 
 Nel repository si trovano le seguenti sottocartelle:
 
-* ```datasheet```
+* ```docs```
 * ```Arduino_Code```:
-* ```Arduino_libraries```:
 * ```Processing_code```:
 
-## Refernces and links
+## Note
+
+### Refernces and links
 
 Test con sensore Pololu sds 01 a [link](https://www.pololu.com/product/1134). Il codice prodotto Pololu è 1134 e monta un sensore SHARP [GP2Y0D810Z0F](http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0d810z_e.pdf). Eccone il [datasheet](http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0d810z_e.pdf). Sembra essere disponibile anche da RobotItaly [codice prodotto 341134](https://www.robot-italy.com/it/1134-sensore-ir-digitale-10cm-pololu-con-sharp-gp2y0d810z0f.html).
 
